@@ -21,6 +21,9 @@
       <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-core-4.3.13.RELEASE.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/aspectjweaver-1.8.11.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-6.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-pool-1.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
